@@ -1,0 +1,30 @@
+header h1{
+
+font-family: 'Pacifico', cursive;
+}
+.art{
+  margin:auto;
+}
+td{
+  background-color: green;
+  height: 400px;
+  width: 200px;
+}
+#one{
+  background-color:#626195;
+}
+#two{
+  background-color:#4d4ba1;
+}
+#three{
+  background-color:#3a3985;
+}
+#four{
+  background-color:#2724cc;
+}
+#five{
+  background-color:#0c0171
+}
+#six{
+  background-color:#050435;
+}
